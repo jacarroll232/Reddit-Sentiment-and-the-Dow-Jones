@@ -1,1 +1,1 @@
-# Final-Project
+# Dow Jones Project from Reddit sentiment
