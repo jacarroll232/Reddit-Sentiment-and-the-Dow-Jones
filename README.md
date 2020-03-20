@@ -15,3 +15,4 @@ Our first model is a multiple regression analysis of the Dow Jones returns and v
 
 The goal of the analyses is to predict Dow-Jones daily return and volatility with the daily top 25 Reddit article headlines. X variables used are the daily frequency of the words appeared in the article headlines (7000 words/ combinations in total). The method applied in general is Lasso. The first attempts were to use SkLearn Lasso default settings. Second attempts were to apply cross validation to tune the best model. Findings: the words have very limited prediction power on both return and volatility, with a better result found in volatility prediction. However, the top words that contributed to the predictions do make intuitive sense, both for return and volatility.
 
+
