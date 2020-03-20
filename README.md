@@ -9,6 +9,7 @@ The DIJA data set consisted of 8 years worth of daily data from the Dow Jones In
 
 
 
+
 The models
 
 Our first model is a multiple regression analysis of the Dow Jones returns and volatility, as compared to the sentiment measured through the Vader Sentiment tool, of the top 25 articles on Reddit each day. We found that the aggregate sentiment of the top 25 Reddit articles has no influence on the outcomes and volatility of the Dow Jones, for that particular day.
