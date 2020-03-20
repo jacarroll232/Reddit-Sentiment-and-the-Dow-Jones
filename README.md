@@ -18,4 +18,3 @@ The goal of the analyses is to predict Dow-Jones daily return and volatility wit
 
 
 
-
