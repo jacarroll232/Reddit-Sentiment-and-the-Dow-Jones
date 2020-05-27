@@ -10,6 +10,9 @@ The RedditNews dataset consisted of 7 years worth of the top 25 news article hea
 
 The DIJA data set consisted of 8 years worth of daily data from the Dow Jones Industrial Average. (Date, Open, High, Low, Close, Volume, Adj. Close)
 
+# Vader Sentiment
+
+![pic](https://github.com/jacarroll232/Reddit-Sentiment-and-the-Dow-Jones/blob/master/Vadersentiment.PNG)
 
 # Models
 Multiple regression VS. Machine learning
