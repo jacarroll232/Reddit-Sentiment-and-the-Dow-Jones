@@ -18,7 +18,7 @@ The DIJA data set consisted of 8 years worth of daily data from the Dow Jones In
 Multiple regression VS. Machine learning
 
 I wanted to see how predictive the two models were, and which was a more powerful predictive model. 
-The multiple regression analysis model was run 
+Both models returned the same result.  There was no predictive value in the sentiment of the articles and the Dow Jones returns.
 
  
 
